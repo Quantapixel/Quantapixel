@@ -2,7 +2,7 @@
 
 i like breaking and experimenting.
 
-## mostly working around:
+## Mostly working around:
 - ai-assisted security analysis
 - wireless / rf experimentation (rtl-sdr)
 - embedded hardware (esp8266, raspberry pi pico, arduino, rasberry pi zero)
@@ -11,6 +11,6 @@ i like breaking and experimenting.
 
 ctf player (rev / pwn / crypto)
 
-## languages: c, python, nim
+## Languages: c, python, nim
 
 sometimes doing freelance bug bounty 
